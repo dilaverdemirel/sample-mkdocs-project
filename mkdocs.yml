@@ -1,0 +1,14 @@
+site_name: Sample Project Documentation
+nav:
+  - Home: index.md 
+  - Architecture:
+    - Backend: architecture/backend.md
+    - Frontend: architecture/frontend.md
+  - Code Organization: 
+    - Index: code-organization/code-organization.md
+    - Backend Development Standard : code-organization/backend-standards.md
+    - Frontend Development Standard : code-organization/frontend-standards.md
+  - Library Xxxx: developer-manual/xxxx.md
+  - DevOps: developer-manual/devops.md
+theme:
+  name: material
